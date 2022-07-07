@@ -49,14 +49,10 @@ button
   cursor: pointer;
 }
 
-.App
-{
-  min-height: 100vh;
-}
 
 .app-wrapper
 {
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   justify-content: flex-start;
   align-items: center;
